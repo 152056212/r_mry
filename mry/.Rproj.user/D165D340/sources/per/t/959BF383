@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590905316233.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4103538890",
+    "id" : "959BF383",
+    "lastKnownWriteTime" : 1590907549,
+    "last_content_update" : 1590907549190,
+    "path" : "E:/baidutmp/R_Project/git_mry/mry/cpi_rpi.R",
+    "project_path" : "cpi_rpi.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "6",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
